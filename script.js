@@ -31,3 +31,4 @@ function removeShow() {
 // Listen for tab item click
 tabItems.forEach(item => {
 	item.addEventListener('click', selectItem);
+});
